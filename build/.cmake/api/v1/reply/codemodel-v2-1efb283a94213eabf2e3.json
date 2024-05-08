@@ -95,9 +95,9 @@
 				},
 				{
 					"directoryIndex" : 2,
-					"id" : "pointers::@c3ffbfef4c54559470c3",
-					"jsonFile" : "target-pointers-Debug-b1c8356f7f1352cb018a.json",
-					"name" : "pointers",
+					"id" : "menmory_management::@c3ffbfef4c54559470c3",
+					"jsonFile" : "target-menmory_management-Debug-cf4eeba51430b1eb52e5.json",
+					"name" : "menmory_management",
 					"projectIndex" : 0
 				}
 			]

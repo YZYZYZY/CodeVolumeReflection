@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/VscodeProjects/CodeVolumeReflection/src/PointAndSmartPoint/menmory_management.cpp" "src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.obj" "gcc" "src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.obj.d"
+  "D:/VscodeProjects/CodeVolumeReflection/src/PointAndSmartPoint/menmory_management.cpp" "src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/menmory_management.cpp.obj" "gcc" "src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/menmory_management.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

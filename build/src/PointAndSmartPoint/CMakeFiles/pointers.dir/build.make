@@ -68,28 +68,28 @@ include src/PointAndSmartPoint/CMakeFiles/pointers.dir/progress.make
 # Include the compile flags for this target's objects.
 include src/PointAndSmartPoint/CMakeFiles/pointers.dir/flags.make
 
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj: src/PointAndSmartPoint/CMakeFiles/pointers.dir/flags.make
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj: D:/VscodeProjects/CodeVolumeReflection/src/PointAndSmartPoint/pointers.cpp
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj: src/PointAndSmartPoint/CMakeFiles/pointers.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeProjects\CodeVolumeReflection\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj"
-	cd /d D:\VscodeProjects\CodeVolumeReflection\build\src\PointAndSmartPoint && D:\CPPEvrnment\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj -MF CMakeFiles\pointers.dir\pointers.cpp.obj.d -o CMakeFiles\pointers.dir\pointers.cpp.obj -c D:\VscodeProjects\CodeVolumeReflection\src\PointAndSmartPoint\pointers.cpp
+src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.obj: src/PointAndSmartPoint/CMakeFiles/pointers.dir/flags.make
+src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.obj: D:/VscodeProjects/CodeVolumeReflection/src/PointAndSmartPoint/menmory_management.cpp
+src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.obj: src/PointAndSmartPoint/CMakeFiles/pointers.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\VscodeProjects\CodeVolumeReflection\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.obj"
+	cd /d D:\VscodeProjects\CodeVolumeReflection\build\src\PointAndSmartPoint && D:\CPPEvrnment\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.obj -MF CMakeFiles\pointers.dir\menmory_management.cpp.obj.d -o CMakeFiles\pointers.dir\menmory_management.cpp.obj -c D:\VscodeProjects\CodeVolumeReflection\src\PointAndSmartPoint\menmory_management.cpp
 
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pointers.dir/pointers.cpp.i"
-	cd /d D:\VscodeProjects\CodeVolumeReflection\build\src\PointAndSmartPoint && D:\CPPEvrnment\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeProjects\CodeVolumeReflection\src\PointAndSmartPoint\pointers.cpp > CMakeFiles\pointers.dir\pointers.cpp.i
+src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/pointers.dir/menmory_management.cpp.i"
+	cd /d D:\VscodeProjects\CodeVolumeReflection\build\src\PointAndSmartPoint && D:\CPPEvrnment\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\VscodeProjects\CodeVolumeReflection\src\PointAndSmartPoint\menmory_management.cpp > CMakeFiles\pointers.dir\menmory_management.cpp.i
 
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pointers.dir/pointers.cpp.s"
-	cd /d D:\VscodeProjects\CodeVolumeReflection\build\src\PointAndSmartPoint && D:\CPPEvrnment\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeProjects\CodeVolumeReflection\src\PointAndSmartPoint\pointers.cpp -o CMakeFiles\pointers.dir\pointers.cpp.s
+src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/pointers.dir/menmory_management.cpp.s"
+	cd /d D:\VscodeProjects\CodeVolumeReflection\build\src\PointAndSmartPoint && D:\CPPEvrnment\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\VscodeProjects\CodeVolumeReflection\src\PointAndSmartPoint\menmory_management.cpp -o CMakeFiles\pointers.dir\menmory_management.cpp.s
 
 # Object files for target pointers
 pointers_OBJECTS = \
-"CMakeFiles/pointers.dir/pointers.cpp.obj"
+"CMakeFiles/pointers.dir/menmory_management.cpp.obj"
 
 # External object files for target pointers
 pointers_EXTERNAL_OBJECTS =
 
-D:/VscodeProjects/CodeVolumeReflection/bin/pointers.exe: src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj
+D:/VscodeProjects/CodeVolumeReflection/bin/pointers.exe: src/PointAndSmartPoint/CMakeFiles/pointers.dir/menmory_management.cpp.obj
 D:/VscodeProjects/CodeVolumeReflection/bin/pointers.exe: src/PointAndSmartPoint/CMakeFiles/pointers.dir/build.make
 D:/VscodeProjects/CodeVolumeReflection/bin/pointers.exe: src/PointAndSmartPoint/CMakeFiles/pointers.dir/linkLibs.rsp
 D:/VscodeProjects/CodeVolumeReflection/bin/pointers.exe: src/PointAndSmartPoint/CMakeFiles/pointers.dir/objects1.rsp

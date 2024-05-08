@@ -1,9 +1,9 @@
 [
 {
   "directory": "D:/VscodeProjects/CodeVolumeReflection/build/src/PointAndSmartPoint",
-  "command": "D:\\CPPEvrnment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\pointers.dir\\pointers.cpp.obj -c D:\\VscodeProjects\\CodeVolumeReflection\\src\\PointAndSmartPoint\\pointers.cpp",
-  "file": "D:/VscodeProjects/CodeVolumeReflection/src/PointAndSmartPoint/pointers.cpp",
-  "output": "src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj"
+  "command": "D:\\CPPEvrnment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\menmory_management.dir\\menmory_management.cpp.obj -c D:\\VscodeProjects\\CodeVolumeReflection\\src\\PointAndSmartPoint\\menmory_management.cpp",
+  "file": "D:/VscodeProjects/CodeVolumeReflection/src/PointAndSmartPoint/menmory_management.cpp",
+  "output": "src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/menmory_management.cpp.obj"
 },
 {
   "directory": "D:/VscodeProjects/CodeVolumeReflection/build/src/ClassesAndObjects",

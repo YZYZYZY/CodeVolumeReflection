@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/pointers.dir/pointers.cpp.obj"
-  "CMakeFiles/pointers.dir/pointers.cpp.obj.d"
+  "CMakeFiles/pointers.dir/menmory_management.cpp.obj"
+  "CMakeFiles/pointers.dir/menmory_management.cpp.obj.d"
   "D:/VscodeProjects/CodeVolumeReflection/bin/libpointers.dll.a"
   "D:/VscodeProjects/CodeVolumeReflection/bin/pointers.exe"
   "D:/VscodeProjects/CodeVolumeReflection/bin/pointers.exe.manifest"

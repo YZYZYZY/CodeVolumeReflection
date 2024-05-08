@@ -116,42 +116,42 @@ depend:
 .PHONY : depend
 
 # Convenience name for target.
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/rule:
-	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/PointAndSmartPoint/CMakeFiles/pointers.dir/rule
-.PHONY : src/PointAndSmartPoint/CMakeFiles/pointers.dir/rule
+src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/rule:
+	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/rule
+.PHONY : src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/rule
 
 # Convenience name for target.
-pointers: src/PointAndSmartPoint/CMakeFiles/pointers.dir/rule
-.PHONY : pointers
+menmory_management: src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/rule
+.PHONY : menmory_management
 
 # fast build rule for target.
-pointers/fast:
-	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\pointers.dir\build.make src/PointAndSmartPoint/CMakeFiles/pointers.dir/build
-.PHONY : pointers/fast
+menmory_management/fast:
+	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\menmory_management.dir\build.make src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/build
+.PHONY : menmory_management/fast
 
-pointers.obj: pointers.cpp.obj
-.PHONY : pointers.obj
+menmory_management.obj: menmory_management.cpp.obj
+.PHONY : menmory_management.obj
 
 # target to build an object file
-pointers.cpp.obj:
-	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\pointers.dir\build.make src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj
-.PHONY : pointers.cpp.obj
+menmory_management.cpp.obj:
+	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\menmory_management.dir\build.make src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/menmory_management.cpp.obj
+.PHONY : menmory_management.cpp.obj
 
-pointers.i: pointers.cpp.i
-.PHONY : pointers.i
+menmory_management.i: menmory_management.cpp.i
+.PHONY : menmory_management.i
 
 # target to preprocess a source file
-pointers.cpp.i:
-	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\pointers.dir\build.make src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.i
-.PHONY : pointers.cpp.i
+menmory_management.cpp.i:
+	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\menmory_management.dir\build.make src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/menmory_management.cpp.i
+.PHONY : menmory_management.cpp.i
 
-pointers.s: pointers.cpp.s
-.PHONY : pointers.s
+menmory_management.s: menmory_management.cpp.s
+.PHONY : menmory_management.s
 
 # target to generate assembly for a file
-pointers.cpp.s:
-	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\pointers.dir\build.make src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.s
-.PHONY : pointers.cpp.s
+menmory_management.cpp.s:
+	cd /d D:\VscodeProjects\CodeVolumeReflection\build && $(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\menmory_management.dir\build.make src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/menmory_management.cpp.s
+.PHONY : menmory_management.cpp.s
 
 # Help Target
 help:
@@ -161,10 +161,10 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... pointers
-	@echo ... pointers.obj
-	@echo ... pointers.i
-	@echo ... pointers.s
+	@echo ... menmory_management
+	@echo ... menmory_management.obj
+	@echo ... menmory_management.i
+	@echo ... menmory_management.s
 .PHONY : help
 
 

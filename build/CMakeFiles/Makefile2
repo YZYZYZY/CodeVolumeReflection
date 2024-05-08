@@ -110,7 +110,7 @@ src/ClassesAndObjects/clean: src/ClassesAndObjects/CMakeFiles/car_test.dir/clean
 # Directory level rules for directory src/PointAndSmartPoint
 
 # Recursive "all" directory target.
-src/PointAndSmartPoint/all: src/PointAndSmartPoint/CMakeFiles/pointers.dir/all
+src/PointAndSmartPoint/all: src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/all
 .PHONY : src/PointAndSmartPoint/all
 
 # Recursive "preinstall" directory target.
@@ -118,34 +118,34 @@ src/PointAndSmartPoint/preinstall:
 .PHONY : src/PointAndSmartPoint/preinstall
 
 # Recursive "clean" directory target.
-src/PointAndSmartPoint/clean: src/PointAndSmartPoint/CMakeFiles/pointers.dir/clean
+src/PointAndSmartPoint/clean: src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/clean
 .PHONY : src/PointAndSmartPoint/clean
 
 #=============================================================================
-# Target rules for target src/PointAndSmartPoint/CMakeFiles/pointers.dir
+# Target rules for target src/PointAndSmartPoint/CMakeFiles/menmory_management.dir
 
 # All Build rule for target.
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/all:
-	$(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\pointers.dir\build.make src/PointAndSmartPoint/CMakeFiles/pointers.dir/depend
-	$(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\pointers.dir\build.make src/PointAndSmartPoint/CMakeFiles/pointers.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\VscodeProjects\CodeVolumeReflection\build\CMakeFiles --progress-num=4,5 "Built target pointers"
-.PHONY : src/PointAndSmartPoint/CMakeFiles/pointers.dir/all
+src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/all:
+	$(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\menmory_management.dir\build.make src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/depend
+	$(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\menmory_management.dir\build.make src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\VscodeProjects\CodeVolumeReflection\build\CMakeFiles --progress-num=4,5 "Built target menmory_management"
+.PHONY : src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/all
 
 # Build rule for subdir invocation for target.
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/rule: cmake_check_build_system
+src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\VscodeProjects\CodeVolumeReflection\build\CMakeFiles 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/PointAndSmartPoint/CMakeFiles/pointers.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start D:\VscodeProjects\CodeVolumeReflection\build\CMakeFiles 0
-.PHONY : src/PointAndSmartPoint/CMakeFiles/pointers.dir/rule
+.PHONY : src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/rule
 
 # Convenience name for target.
-pointers: src/PointAndSmartPoint/CMakeFiles/pointers.dir/rule
-.PHONY : pointers
+menmory_management: src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/rule
+.PHONY : menmory_management
 
 # clean rule for target.
-src/PointAndSmartPoint/CMakeFiles/pointers.dir/clean:
-	$(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\pointers.dir\build.make src/PointAndSmartPoint/CMakeFiles/pointers.dir/clean
-.PHONY : src/PointAndSmartPoint/CMakeFiles/pointers.dir/clean
+src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/clean:
+	$(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\menmory_management.dir\build.make src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/clean
+.PHONY : src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/clean
 
 #=============================================================================
 # Target rules for target src/ClassesAndObjects/CMakeFiles/car_test.dir

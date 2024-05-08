@@ -116,17 +116,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named pointers
+# Target rules for targets named menmory_management
 
 # Build rule for target.
-pointers: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 pointers
-.PHONY : pointers
+menmory_management: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 menmory_management
+.PHONY : menmory_management
 
 # fast build rule for target.
-pointers/fast:
-	$(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\pointers.dir\build.make src/PointAndSmartPoint/CMakeFiles/pointers.dir/build
-.PHONY : pointers/fast
+menmory_management/fast:
+	$(MAKE) $(MAKESILENT) -f src\PointAndSmartPoint\CMakeFiles\menmory_management.dir\build.make src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/build
+.PHONY : menmory_management/fast
 
 #=============================================================================
 # Target rules for targets named car_test
@@ -150,7 +150,7 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... car_test
-	@echo ... pointers
+	@echo ... menmory_management
 .PHONY : help
 
 

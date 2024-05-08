@@ -55,6 +55,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "src/PointAndSmartPoint/CMakeFiles/pointers.dir/DependInfo.cmake"
+  "src/PointAndSmartPoint/CMakeFiles/menmory_management.dir/DependInfo.cmake"
   "src/ClassesAndObjects/CMakeFiles/car_test.dir/DependInfo.cmake"
   )
