@@ -1,0 +1,10 @@
+D:/VscodeProjects/CodeVolumeReflection/build/CMakeFiles/edit_cache.dir
+D:/VscodeProjects/CodeVolumeReflection/build/CMakeFiles/rebuild_cache.dir
+D:/VscodeProjects/CodeVolumeReflection/build/src/CMakeFiles/edit_cache.dir
+D:/VscodeProjects/CodeVolumeReflection/build/src/CMakeFiles/rebuild_cache.dir
+D:/VscodeProjects/CodeVolumeReflection/build/src/PointAndSmartPoint/CMakeFiles/pointers.dir
+D:/VscodeProjects/CodeVolumeReflection/build/src/PointAndSmartPoint/CMakeFiles/edit_cache.dir
+D:/VscodeProjects/CodeVolumeReflection/build/src/PointAndSmartPoint/CMakeFiles/rebuild_cache.dir
+D:/VscodeProjects/CodeVolumeReflection/build/src/ClassesAndObjects/CMakeFiles/car_test.dir
+D:/VscodeProjects/CodeVolumeReflection/build/src/ClassesAndObjects/CMakeFiles/edit_cache.dir
+D:/VscodeProjects/CodeVolumeReflection/build/src/ClassesAndObjects/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:\CPPEvrnment\Cmake\bin\cmake.exe -E rm -f CMakeFiles\pointers.dir/objects.a
+D:\CPPEvrnment\mingw64\bin\ar.exe qc CMakeFiles\pointers.dir/objects.a @CMakeFiles\pointers.dir\objects1.rsp
+D:\CPPEvrnment\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\pointers.dir/objects.a -Wl,--no-whole-archive -o D:\VscodeProjects\CodeVolumeReflection\bin\pointers.exe -Wl,--out-implib,D:\VscodeProjects\CodeVolumeReflection\bin\libpointers.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\pointers.dir\linkLibs.rsp

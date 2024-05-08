@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/VscodeProjects/CodeVolumeReflection/build/src/PointAndSmartPoint",
+  "command": "D:\\CPPEvrnment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\pointers.dir\\pointers.cpp.obj -c D:\\VscodeProjects\\CodeVolumeReflection\\src\\PointAndSmartPoint\\pointers.cpp",
+  "file": "D:/VscodeProjects/CodeVolumeReflection/src/PointAndSmartPoint/pointers.cpp",
+  "output": "src/PointAndSmartPoint/CMakeFiles/pointers.dir/pointers.cpp.obj"
+},
+{
+  "directory": "D:/VscodeProjects/CodeVolumeReflection/build/src/ClassesAndObjects",
+  "command": "D:\\CPPEvrnment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\car_test.dir\\car_main.cpp.obj -c D:\\VscodeProjects\\CodeVolumeReflection\\src\\ClassesAndObjects\\car_main.cpp",
+  "file": "D:/VscodeProjects/CodeVolumeReflection/src/ClassesAndObjects/car_main.cpp",
+  "output": "src/ClassesAndObjects/CMakeFiles/car_test.dir/car_main.cpp.obj"
+},
+{
+  "directory": "D:/VscodeProjects/CodeVolumeReflection/build/src/ClassesAndObjects",
+  "command": "D:\\CPPEvrnment\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\car_test.dir\\car.cpp.obj -c D:\\VscodeProjects\\CodeVolumeReflection\\src\\ClassesAndObjects\\car.cpp",
+  "file": "D:/VscodeProjects/CodeVolumeReflection/src/ClassesAndObjects/car.cpp",
+  "output": "src/ClassesAndObjects/CMakeFiles/car_test.dir/car.cpp.obj"
+}
+]
