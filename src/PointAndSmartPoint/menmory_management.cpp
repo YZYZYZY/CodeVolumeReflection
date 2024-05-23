@@ -97,6 +97,7 @@ int main(int _argc, char **_argv)
     int b = *(*(*ppptr));
     printf("%d\n", b);
 
+    // 使用成员指针获取结构体成员偏移量
     struct MemLayoutSample
     {
         int a;
@@ -107,8 +108,6 @@ int main(int _argc, char **_argv)
 
     MemLayoutSample memSample;
     int intArrSample[4];
-
-    // 使用成员指针获取结构体成员偏移量
     int MemLayoutSample::*memoffset = &MemLayoutSample::a; // 这是什么写法？没有实例化结构体 使用成员指针的例子
     printf("MemLayoutSample data member offsets : \n");    // 使用成员指针获取成员偏移量
     printf("%u\n", memoffset);
@@ -139,9 +138,9 @@ int main(int _argc, char **_argv)
            intArrSample[1],
            intArrSample[2],
            intArrSample[3]);
-    //
+    
+    //联合体的相关操作
     uSample;
-    //
     union
     {
         size_t offset;
@@ -151,6 +150,8 @@ int main(int _argc, char **_argv)
     size_t offsetA = offsetu.offset;
     //
     printf("offset b = %ul\n", offsetA);
+
+    //引入引用的目的：并不是为了给变量取了别名，为了"引用参数传递" 语义，依然是通过传参数地址值到函数内部
 
     return 0;
 }
